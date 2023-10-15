@@ -23,3 +23,4 @@ function increment(){
         pragraph.style.color = "Orange";
     }
 }
+ // esi banaya tha git hub sekhny k lye
